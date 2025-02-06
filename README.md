@@ -1,2 +1,12 @@
-# Academic_Document
-📚 Academic Document Repository | University of Rajshahi | CSE   A collection of notes, projects, and resources for my academic journey.
+# 🎓 Academic Document Repository  
+> 📚 A collection of my university notes, assignments, projects, and research papers.  
+
+## 📌 About  
+This repository contains all my **academic materials**, including:  
+✅ **Course Notes** 📖  
+✅ **Assignments & Projects** 💻  
+✅ **Research Papers** 📜  
+✅ **Competitive Programming** ⚡  
+✅ **Certifications & Achievements** 🎓  
+
+## 📁 Repository Structure  
